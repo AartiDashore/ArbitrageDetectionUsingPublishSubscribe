@@ -1,8 +1,7 @@
 """
-CPSC 5520, Seattle University
-This is free and unencumbered software released into the public domain.
-:Authors: Nicholas Jones
-:Version: fq19-01
+CPSC 5520, Distributed Systems, Seattle University FQ2024
+Author: Aarti Dashore
+Version: V.0.0.1
 """
 
 class BellmanFord(object):
